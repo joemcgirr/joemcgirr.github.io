@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joe McGirr"
   avatar           : "profile.jpg"
-  bio              : "Evolutionary Genomics at UC Davis"
+  bio              : "Evolutionary Genomics in the Whitehead Lab at UC Davis"
   location         : "Davis, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/joemcgirr"
+  github           : "joemcgirr"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCyZvEmYbOE-ZzdkLxBF4SSQ"
+  youtube          : 
   wikipedia        :
 
 
