@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe McGirr / Evolutionary Genomics"
+title                    : "Evolutionary Genomics"
 title_separator          : "-"
 name                     : &name "Joe McGirr"
 description              : &description "Postoctoral Researcher in the Whitehead Lab at UC Davis"
