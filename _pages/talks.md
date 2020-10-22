@@ -19,8 +19,8 @@ author_profile: true
 #### Contributed talk. Society for Integrative and Comparative Biology meeting. San Francisco, CA.
 
 #### Contributed talk. Society for the Study of Evolution meeting. Portland, OR.
-[Watch on YouTube](https://www.youtube.com/watch?v=cEX8pR48S-E)
+[Watch on YouTube](https://www.youtube.com/watch?v=vl1tPdzJyV4)
 
 #### Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
-https://www.youtube.com/watch?v=vl1tPdzJyV4
+
 
