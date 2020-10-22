@@ -6,9 +6,9 @@ author_profile: false
 ---
 
 ## 2020
-<span style="font-family:Papyrus; font-size:4em;">Major stages of vertebrate adaptive radiation are assembled from a disparate spatiotemporal landscape.</span>
+<font size="4">Major stages of vertebrate adaptive radiation are assembled from a disparate spatiotemporal landscape.</font>
 
-<span font-size:4em;">Richards EJ, McGirr JA, Wang JR, St. John ME, Poelstra JW, Solano MJ, O'Connell DC, Turner BJ, Martin CH. </span> 
+<font size="1">Richards EJ, McGirr JA, Wang JR, St. John ME, Poelstra JW, Solano MJ, O'Connell DC, Turner BJ, Martin CH. </font> 
 
 <i>in review</i>[bioRxiv preprint pdf](https://github.com/joemcgirr/joemcgirr.github.io/blob/master/files/papers/richards_2020.pdf)
 
