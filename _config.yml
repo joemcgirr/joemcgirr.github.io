@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Evolutionary Genomics"
+title                    : "Research"
 title_separator          : "-"
 name                     : &name "Joe McGirr"
 description              : &description "Postoctoral Researcher in the Whitehead Lab at UC Davis"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joe McGirr"
   avatar           : "profile.jpg"
-  bio              : "Evolutionary Genomics in the Whitehead Lab at UC Davis"
+  bio              : "Evolutionary genomics in the Whitehead Lab at UC Davis"
   location         : "Davis, CA"
   employer         :
   pubmed           : 
