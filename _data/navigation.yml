@@ -1,8 +1,8 @@
 # main links links
-main: 
+main:     
   - title: "Research"
     url: /research/
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -11,3 +11,12 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Pupfish"
+    url: /pupfish/
+    
+  - title: "Killifish"
+    url: /killifish/
+    
+  - title: "Herring"
+    url: /herring/
