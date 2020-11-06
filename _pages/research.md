@@ -14,7 +14,7 @@ redirect_from:
 All of my research questions are tied together by a curiosity about molecular changes that make populations unique. Pursuing these questions involves analyses of large –omics data sets which has made me passionate about learning, developing, and applying new bioinformatics approaches. Overall, I strive to conduct research that tests basic theory in evolution and ecology, generates findings that are reproducible and publicly available, and informs population management decisions that preserve biodiversity.
 
 ## The genetic basis of complex adaptive traits
-![alt text](https://github.com/joemcgirr/joemcgirr.github.io/tree/master/images/P3182392_copy.jpg "generalist pupfish")
+![pupfish](/images/P3182392_copy.jpg "generalist pupfish")
 Evolutionary radiations showcase astounding examples of adaptation and are often characterized by transitions from generalist to specialist phenotypes. For my dissertation at UNC Chapel Hill, I studied a fascinating radiation of Cyprinodon pupfishes to understand how little genetic differentiation between three young species gave rise to drastic divergence in specialized traits. This radiation consists of a dietary generalist species and two derived trophic niche specialists that feed on novel resources. I discovered candidate alleles under selection that likely contribute to adaptive differences in adaptive craniofacial morphology. I also found evidence suggesting that some of these alleles negatively interact in hybrids to cause gene misregulation, which may act as an important barrier to gene flow during early stages of speciation in sympatry.
 #### For more see [Pupfish](https://joemcgirr.github.io/pupfish/) and my [fishfASE](https://github.com/joemcgirr/fishfASE) repo
 
