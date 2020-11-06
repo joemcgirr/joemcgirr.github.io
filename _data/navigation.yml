@@ -12,11 +12,9 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Pupfish"
-    url: /pupfish/
+  - title: "Code"
+    url: /code/
     
-  - title: "Killifish"
-    url: /killifish/
+  - title: "Data"
+    url: /data/
     
-  - title: "Herring"
-    url: /herring/
