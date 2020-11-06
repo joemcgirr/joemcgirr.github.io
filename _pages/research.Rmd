@@ -30,6 +30,8 @@ For another main project, I’m analyzing genomic samples from several populatio
 
 
 ``````{r, echo=FALSE,eval=FALSE}
+#https://francojc.github.io/2014/12/19/publishing-rmarkdown-to-wordpress-or-jekyll/
+
 library(knitr)
 my.jekyll.site <- "joemcgirr.github.io"
 KnitPost <- function(input, base.url = my.jekyll.site) {
