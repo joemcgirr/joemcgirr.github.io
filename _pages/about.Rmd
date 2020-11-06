@@ -1,6 +1,12 @@
 ---
+
+permalink: /
 title: "Research"
-permalink: /research/
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 output:
   prettydoc::html_pretty:
     theme: architect
