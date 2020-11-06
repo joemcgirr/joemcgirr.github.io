@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Joe McGirr"
 description              : &description "Postoctoral Researcher in the Whitehead Lab at UC Davis"
