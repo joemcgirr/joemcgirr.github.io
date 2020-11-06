@@ -1,0 +1,21 @@
+---
+title: "test"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    collapsed: no
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research
+All of my research questions are tied together by a curiosity about molecular changes that make populations unique. 
+```{r, echo=TRUE, message=FALSE, warning=FALSE, fig.width= 10, fig.height= 7}
+
+print("Hello")
+```
+
