@@ -1,9 +1,9 @@
 ---
 
-permalink: /
+permalink: /research/
 title: "Research"
 excerpt: "research"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /reseaerch/
   - /research.html
