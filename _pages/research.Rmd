@@ -22,7 +22,7 @@ Evolutionary radiations showcase astounding examples of adaptation and are often
 #### For more see [Pupfish](https://joemcgirr.github.io/pupfish/) and my [fishfASE](https://github.com/joemcgirr/fishfASE) repo
 ___
 ## From oceans to rivers and lakes
-![fundulus](/images/Fuhet_j0.jpg "fundulus")  
+![fundulus](/images/14_killifish.png "fundulus")  
 
 My postdoctoral research in Andrew Whitehead’s lab continues to explore questions related to adaptation and speciation. For one main project, I’m studying a radiation of Fundulus fishes that occupy diverse osmotic environments to understand adaptations that allowed freshwater specialists to evolve from marine-dwelling ancestors. Since this transition occurred several times independently across multiple clades, I’m searching for parallel and divergent gene regulatory mechanisms underlying freshwater adaptations by identifying cross-species differential gene expression in response to osmotic stress. This project is in collaboration with [Lisa Johnson](https://github.com/johnsolk) 
 #### For more see [Killifish](https://joemcgirr.github.io/killifish/) and my [RNAseq_17killifish_osmotic](https://github.com/joemcgirr/RNAseq_17killifish_osmotic) repo
