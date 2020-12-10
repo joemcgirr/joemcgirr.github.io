@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
   
 header:
-  image: /images/P3151965.JPG  
+  image: /images/Fuhet_j0.jpg  
 ---
 
 ```{r setup, include=FALSE}
