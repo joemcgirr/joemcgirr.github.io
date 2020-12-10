@@ -3,6 +3,8 @@ layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: false
+header:
+  image: miko.jpg
 ---
 
 ## 2020 
