@@ -8,7 +8,8 @@ redirect_from:
   - /about/
   - /about.html
   
-  
+header:
+  image: aspens.jpg  
 ---
 
 
