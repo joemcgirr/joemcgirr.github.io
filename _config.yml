@@ -14,7 +14,7 @@ description              : &description "Postoctoral Researcher in the Whitehead
 url                      : "https://joemcgirr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joemcgirr/joemcgirr.github.io"
-teaser                   : "IMG_20190902_110242568.jpg"
+teaser                   : "/images/IMG_20190902_110242568.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
