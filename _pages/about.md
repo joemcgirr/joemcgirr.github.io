@@ -8,8 +8,7 @@ redirect_from:
   - /about/
   - /about.html
   
-header:
-  image: Fuhet_j0.jpg  
+  
 ---
 
 
