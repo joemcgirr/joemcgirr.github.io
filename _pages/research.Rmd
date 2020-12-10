@@ -7,6 +7,9 @@ author_profile: false
 redirect_from: 
   - /reseaerch/
   - /research.html
+
+header:
+  image: cresent.jpg
 ---
 
 ```{r setup, include=FALSE}
