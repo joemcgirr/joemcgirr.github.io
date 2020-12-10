@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
   
 header:
-  image: /images/Fuhet_j0.jpg  
+  image: Fuhet_j0.jpg  
 ---
 
 
