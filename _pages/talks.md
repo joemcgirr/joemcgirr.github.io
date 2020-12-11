@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: false
 header:
-  image: rundle2.jpg
+  image: aspens.jpg
 ---
 
 ## 2020 
