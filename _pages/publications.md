@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 header:
-  image: rundle2.jpg
+  overlay_image: rundle2.jpg
 ---
 
 ## 2020
