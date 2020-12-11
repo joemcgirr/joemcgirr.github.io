@@ -2,7 +2,6 @@
 
 permalink: /data/
 title: "Data Links"
-excerpt: "data links"
 author_profile: false
 
 header:
