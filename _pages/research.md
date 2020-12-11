@@ -8,11 +8,8 @@ redirect_from:
   - /reseaerch/
   - /research.html
 
-excerpt: "Research"
-
 header:
   overlay_image: netting_header.jpg
-  caption: "Photo"
 ---
 
 
