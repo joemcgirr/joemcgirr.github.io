@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
   
 header:
-  image: cresent.jpg  
+  image: reflect.jpg  
 ---
 
 
