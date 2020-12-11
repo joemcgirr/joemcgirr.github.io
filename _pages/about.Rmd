@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
   
 header:
-  image: reflect.jpg  
+  image: cresent.jpg  
 ---
 
 ```{r setup, include=FALSE}
