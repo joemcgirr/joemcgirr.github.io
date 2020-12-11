@@ -1,5 +1,5 @@
 ---
-
+layout: archive
 permalink: /datalinks/
 title: "Data Links"
 excerpt: "data links"
