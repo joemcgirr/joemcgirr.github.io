@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: false
 header:
-  image: lakes.jpg
+  image: rundle2.jpg
 ---
 
 ## 2020 
@@ -23,4 +23,4 @@ Contributed talk. Society for the Study of Evolution meeting. Portland, OR. [Wat
 Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
 
 
-![rundle2](/images/IMG_20190905_071644688.jpg "rundle2")  
+![miko](/images/miko.jpg "miko")  
