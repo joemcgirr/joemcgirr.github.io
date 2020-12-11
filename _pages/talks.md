@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Videos"
 permalink: /talks/
 author_profile: false
 header:
-  image: aspens.jpg
+  overlay_image: aspens.jpg
 ---
 
 ## 2020 
