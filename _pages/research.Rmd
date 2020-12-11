@@ -8,8 +8,11 @@ redirect_from:
   - /reseaerch/
   - /research.html
 
+excerpt: "Research"
+
 header:
-  image: netting_header.jpg
+  overlay_image: netting_header.jpg
+  caption: "Photo"
 ---
 
 ```{r setup, include=FALSE}
