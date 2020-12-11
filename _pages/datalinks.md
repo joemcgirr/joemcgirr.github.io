@@ -6,7 +6,7 @@ excerpt: "data links"
 author_profile: false
 
 header:
-  image: beach.jpg
+  overlay_image: beach.jpg
 ---
 
 
