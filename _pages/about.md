@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
   
 header:
-  image: aspens.jpg  
+  image: beach.jpg  
 ---
 
 
