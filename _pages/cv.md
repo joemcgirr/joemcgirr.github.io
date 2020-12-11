@@ -12,4 +12,3 @@ header:
 ## [Academic CV](https://joemcgirr.github.io/files/Academic_CV_McGirr_2020.pdf)
 
 
-![wall](/images/IMG_20191127_145945399_HDR.jpg "wall")  
