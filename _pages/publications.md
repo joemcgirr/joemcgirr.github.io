@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 header:
-  image: aspens.jpg
+  image: rundle2.jpg
 ---
 
 ## 2020
@@ -31,6 +31,5 @@ Turissini DA, <b>McGirr JA</b>, Patel SS, Matute DR. The rate of evolution of po
 
 <b>McGirr JA</b>, Johnson LM, Kelly W, Markow TA, Bono JM. Reproductive isolation among Drosophila arizonae from geographically isolated regions of North America. <i>Evolutionary Biology</i> [pdf](https://github.com/joemcgirr/joemcgirr.github.io/blob/master/files/papers/mcgirr_2017a.pdf)
 
-![rundle](/images/IMG_20190902_110242568.jpg "rundle")  
 
 
