@@ -9,7 +9,7 @@ redirect_from:
   - /research.html
 
 header:
-  image: tractor.jpg
+  image: netting_header.jpg
 ---
 
 
