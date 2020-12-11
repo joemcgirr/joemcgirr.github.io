@@ -9,7 +9,7 @@ redirect_from:
   - /datalinks.html
 
 header:
-  image: aspens.jpg
+  image: beach.jpg
 ---
 
 ```{r setup, include=FALSE}
