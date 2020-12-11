@@ -1,15 +1,15 @@
 ---
 
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "About me"
+excerpt: "Evolution ~ Adaptation ~ Speciation"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   
 header:
-  image: cresent.jpg  
+  overlay_image: cresent.jpg  
 ---
 
 
