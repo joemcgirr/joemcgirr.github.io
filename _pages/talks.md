@@ -23,4 +23,3 @@ Contributed talk. Society for the Study of Evolution meeting. Portland, OR. [Wat
 Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
 
 
-![miko](/images/miko.jpg "miko")  
