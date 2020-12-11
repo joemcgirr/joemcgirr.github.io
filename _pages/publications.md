@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: false
+header:
+  image: aspens.jpg
 ---
 
 ## 2020
