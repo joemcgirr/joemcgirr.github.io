@@ -1,0 +1,39 @@
+---
+
+permalink: /code/
+title: "Code"
+author_profile: false
+
+header:
+  overlay_image: snailer.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## In progress 
+
+
+
+
+
+
+``````{r, echo=FALSE,eval=FALSE}
+#https://francojc.github.io/2014/12/19/publishing-rmarkdown-to-wordpress-or-jekyll/
+
+library(knitr)
+my.jekyll.site <- "joemcgirr.github.io"
+KnitPost <- function(input, base.url = my.jekyll.site) {
+  opts_knit$set(base.url = base.url)
+  fig.path <- paste0("images/", sub(".Rmd$", "", basename(input)), "/")
+  opts_chunk$set(fig.path = fig.path)
+  opts_chunk$set(fig.cap = "center")
+  render_jekyll()
+  knit(input, envir = parent.frame())
+}
+
+setwd("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/")
+KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/code.Rmd")
+
+```
