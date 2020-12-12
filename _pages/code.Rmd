@@ -5,7 +5,7 @@ title: "Code"
 author_profile: false
 
 header:
-  overlay_image: snailer.JPG
+  overlay_image: scaler.JPG
 ---
 
 ```{r setup, include=FALSE}
