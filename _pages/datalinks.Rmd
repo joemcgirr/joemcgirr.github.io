@@ -5,7 +5,7 @@ title: "Data Links"
 author_profile: false
 
 header:
-  overlay_image: beach.jpg
+  overlay_image: beach2.JPG
 ---
 
 ```{r setup, include=FALSE}
