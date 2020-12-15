@@ -10,7 +10,7 @@ header:
 ## 2020
 Richards EJ,<b>McGirr JA</b>, Wang JR, St. John ME, Poelstra JW, Solano MJ, O'Connell DC, Turner BJ, Martin CH. Major stages of vertebrate adaptive radiation are assembled from a disparate spatiotemporal landscape. <i>in review</i> [bioRxiv preprint pdf](https://github.com/joemcgirr/joemcgirr.github.io/blob/master/files/papers/richards_2020.pdf)
 
-<b>McGirr JA</b> and Martin CH. Few fixed variants between trophic specialist pupfish species reveal candidate cis-regulatory alleles underlying rapid craniofacial divergence. <i>Molecular Biology and Evolution</i> [early access pdf](https://github.com/joemcgirr/joemcgirr.github.io/blob/master/files/papers/mcgirr_2020.pdf)
+<b>McGirr JA</b> and Martin CH. Few fixed variants between trophic specialist pupfish species reveal candidate cis-regulatory alleles underlying rapid craniofacial divergence. <i>Molecular Biology and Evolution</i> [pdf](https://github.com/joemcgirr/joemcgirr.github.io/blob/master/files/papers/mcgirr_2020.pdf)
 
 <b>McGirr JA</b> and Martin CH. Ecological divergence in sympatry causes gene misexpression in hybrids. <i>Molecular Ecology</i> [pdf](https://github.com/joemcgirr/joemcgirr.github.io/blob/master/files/papers/mcgirr_2020b.pdf)
 
