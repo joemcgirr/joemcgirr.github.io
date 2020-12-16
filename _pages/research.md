@@ -2,7 +2,7 @@
 
 permalink: /research/
 title: "Research"
-excerpt: "Evolution ~ Adaptation ~ Speciation"
+excerpt: "Evolution - Adaptation - Speciation"
 author_profile: false
 redirect_from: 
   - /reseaerch/
