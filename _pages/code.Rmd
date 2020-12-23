@@ -4,9 +4,6 @@ permalink: /code/
 title: "Code"
 excerpt: ""
 author_profile: false
-redirect_from: 
-  - /code/
-  - /code.html
 
 header:
   overlay_image: snowy.jpg
