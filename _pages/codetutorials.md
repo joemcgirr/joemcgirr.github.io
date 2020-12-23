@@ -13,7 +13,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
+    url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: snailer.JPG
