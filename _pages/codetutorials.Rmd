@@ -9,10 +9,10 @@ header:
   overlay_image: snowy.jpg
   
 feature_row:
-  - image_path: snailer.JPG
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: coverage.png
+    alt: "Variant Filtering and QC"
+    title: "Variant Filtering and QC"
+    excerpt: "This is a pipeline to generate a filtered SNP .vcf file from raw .fastq files. The approach is designed for whole-genome low coverage sequences from many individuals (over one thousand Pacific herring samples)."
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "Read More"
     btn_class: "btn--inverse"
