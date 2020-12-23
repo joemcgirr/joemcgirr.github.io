@@ -10,8 +10,6 @@ header:
 ## 2020 
 Public Defense. University of North Carolina, Chapel Hill, NC. [Watch on YouTube](https://www.youtube.com/watch?v=arDgfxfuOBA)
 
-{% include video id="arDgfxfuOBA" provider="youtube" %}
-
 ## 2019	
 Contributed talk. Society for the Study of Evolution meeting. Providence, RI. [Watch on YouTube](https://www.youtube.com/watch?v=cEX8pR48S-E)
 
