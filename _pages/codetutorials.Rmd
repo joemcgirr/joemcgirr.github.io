@@ -6,7 +6,7 @@ excerpt: ""
 author_profile: false
 
 header:
-  overlay_image: snowy.jpg
+  overlay_image: mush.jpg
   
 feature_row:
   - image_path: coverage.png
