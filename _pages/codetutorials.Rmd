@@ -1,6 +1,6 @@
 ---
 
-permalink: /code/
+permalink: /codetutorials/
 title: "Code"
 excerpt: ""
 author_profile: false
@@ -48,6 +48,6 @@ KnitPost <- function(input, base.url = my.jekyll.site) {
 }
 
 setwd("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/")
-KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/code.Rmd")
+KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/codetutorials.Rmd")
 
 ```

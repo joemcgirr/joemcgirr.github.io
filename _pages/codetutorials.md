@@ -1,6 +1,6 @@
 ---
 
-permalink: /code/
+permalink: /codetutorials/
 title: "Code"
 excerpt: ""
 author_profile: false
