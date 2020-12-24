@@ -16,7 +16,7 @@ feature_row:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-  - image_path: gpa33_2.jpg
+  - image_path: fig7.png
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
     excerpt: "This is a quick tutorial on finding genes near candidate SNPs using my favorite R package plyranges"
