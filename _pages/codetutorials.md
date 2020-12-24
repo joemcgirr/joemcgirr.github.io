@@ -9,7 +9,7 @@ header:
   overlay_image: mush.jpg
   
 feature_row:
-  - image_path: coverage2.png
+  - image_path: coverage2.jpg
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
     excerpt: "This is a pipeline to generate a filtered SNP .vcf file from raw .fastq files. The approach is designed for whole-genome low coverage sequences from many individuals (over one thousand Pacific herring samples)."
