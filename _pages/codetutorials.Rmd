@@ -19,7 +19,7 @@ feature_row:
   - image_path: gpa33_2.jpg
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is a quick tutorial on finding genes near candidate SNPs using my favorite R package plyranges"
     url: /files/code_tutorials/plyranges_tutorial.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
