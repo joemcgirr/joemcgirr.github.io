@@ -35,7 +35,6 @@ feature_row:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Under Construction
 
 {% include feature_row %}
 

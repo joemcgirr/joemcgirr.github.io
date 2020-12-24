@@ -6,7 +6,7 @@ excerpt: ""
 author_profile: false
 
 header:
-  overlay_image: mush.jpg
+  overlay_image: mush2.jpg
   
 feature_row:
   - image_path: coverage2.jpg
@@ -33,7 +33,6 @@ feature_row:
 
 
 
-# Under Construction
 
 {% include feature_row %}
 
