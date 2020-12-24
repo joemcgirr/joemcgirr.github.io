@@ -16,7 +16,7 @@ gallery:
     alt: ""
     title: ""
   - url: pupskulls.jpg
-    image_path: phmap.png
+    image_path: pupskulls.jpg
     alt: ""
     title: ""
   - url: P7271877.JPG
