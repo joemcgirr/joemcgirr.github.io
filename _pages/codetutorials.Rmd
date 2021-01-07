@@ -6,7 +6,7 @@ excerpt: ""
 author_profile: false
 
 header:
-  overlay_image: mush2.jpg
+  overlay_image: grandma.jpg
   
 feature_row:
   - image_path: coverage2.jpg
@@ -16,6 +16,12 @@ feature_row:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
+  - image_path: map_pca.png
+    title: "Population structure in Pacific herring"
+    excerpt: "A look at North American Pacific herring populations using multiple genetic clustering approaches"
+    url: /files/code_tutorials/Pacific_Herring_population_structure.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
   - image_path: fig7.png
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
@@ -23,12 +29,7 @@ feature_row:
     url: /files/code_tutorials/plyranges_tutorial.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-  - image_path: snailer.JPG
-    title: "Fish"
-    excerpt: "This is just a picture of a fish for now..."
-    url: "#test-link"
-    btn_label: "See Code"
-    btn_class: "btn--inverse"
+  
 ---
 
 ```{r setup, include=FALSE}
