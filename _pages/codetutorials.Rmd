@@ -17,7 +17,7 @@ feature_row:
     btn_label: "See Code"
     btn_class: "btn--inverse"
   - image_path: ph_map_scale.jpg
-    title: "Population structure in Pacific herring"
+    title: "Population Structure in Pacific Herring"
     excerpt: "A look at North American Pacific herring populations using multiple genetic clustering approaches"
     url: /files/code_tutorials/Pacific_Herring_population_strucutre.html
     btn_label: "See Code"
