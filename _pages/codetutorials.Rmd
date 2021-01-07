@@ -19,7 +19,7 @@ feature_row:
   - image_path: map_pca.png
     title: "Population structure in Pacific herring"
     excerpt: "A look at North American Pacific herring populations using multiple genetic clustering approaches"
-    url: /files/code_tutorials/Pacific_Herring_population_structure.html
+    url: /files/code_tutorials/Pacific_Herring_population_strucutre.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
   - image_path: fig7.png
