@@ -19,7 +19,7 @@ feature_row:
   - image_path: cluster1.png
     title: "Using the FARM Computer Cluster"
     excerpt: "A tutorial on how to submit jobs on the UC Davis FARM cluster. Developed for ECL243 (Ecological Genomics graduate level course)"
-    url: /files/code_tutorials/FARM_tutorial.html
+    url: /files/code_tutorials/FARM_Tutorial.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
   - image_path: fig7.png
