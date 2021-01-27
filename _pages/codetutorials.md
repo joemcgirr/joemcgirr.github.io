@@ -16,7 +16,7 @@ feature_row:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-  - image_path: cluster1.png
+  - image_path: cluster.jpg
     title: "Using the FARM Computer Cluster"
     excerpt: "A tutorial on how to submit jobs on the UC Davis FARM cluster. Developed for ECL243 (Ecological Genomics graduate level course)"
     url: /files/code_tutorials/FARM_tutorial.html
