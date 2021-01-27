@@ -20,7 +20,7 @@ Accession [PRJNA391309](https://www.ncbi.nlm.nih.gov/bioproject/391309)
 ## Fundulus genome assemblies and transcriptomes
 <img src="https://github.com/joemcgirr/joemcgirr.github.io/blob/master/images/grandis-01.png?raw=true" alt="drawing" width="200"/>
 
-Genome assemblies for 17 killifish
+Genome assemblies for 4 killifish
 OSF DOI: [10.17605/osf.io/zjv86](https://osf.io/zjv86/)
 
 Gene expression tables (Salmon read counts)
