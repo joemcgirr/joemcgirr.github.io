@@ -11,7 +11,7 @@
 
 <meta name="author" content="Joe McGirr" />
 
-<meta name="date" content="2021-01-26" />
+<meta name="date" content="2021-01-27" />
 
 <title>Using Farm</title>
 
@@ -2843,7 +2843,7 @@ div.tocify {
 
 <h1 class="title toc-ignore">Using Farm</h1>
 <h4 class="author">Joe McGirr</h4>
-<h4 class="date">2021-01-26</h4>
+<h4 class="date">2021-01-27</h4>
 
 </div>
 
@@ -2956,21 +2956,22 @@ mkdir scripts</code></pre>
 <div id="file-transfer" class="section level2">
 <h2>2. File transfer</h2>
 <ul>
+<li><p>Open up another terminal so that you can interact with your local files</p></li>
 <li><p>There are several ways to transfer files between farm and your computer. We will be using <code>scp</code></p></li>
 <li><p>Note: If you find yourself doing a lot of transferring in the future for your project, check out:</p>
 <ul>
 <li>WinSCP (for windows)</li>
 <li>Filezilla</li>
+<li>Slack me for help</li>
 </ul></li>
-<li><p>Slack me for help</p></li>
 </ul>
 <div id="download-slurm_template.sh-from-slack-and-use-scp-command-to-upload-to-farm" class="section level3">
 <h3>Download <code>slurm_template.sh</code> from Slack and use <code>scp</code> command to upload to farm</h3>
+<p><span style="color:red"><strong>Whenever you see these symbols ‘&lt; &gt;’ that means you need to change what I have written</strong></span></p>
 <ul>
-<li>Open up another terminal so that you can interact with your local files</li>
 <li>Remember to use your username</li>
 </ul>
-<pre class="bash fold-show"><code>scp -P 2022 path/to/slurm_template.sh username@farm.cse.ucdavis.edu:~/scripts</code></pre>
+<pre class="bash fold-show"><code>scp -P 2022 &lt;path/to/&gt;slurm_template.sh &lt;username&gt;@farm.cse.ucdavis.edu:~/scripts</code></pre>
 </div>
 <div id="download-.fastq-files-with-wget" class="section level3">
 <h3>Download <code>.fastq</code> files with <code>wget</code></h3>
@@ -3043,7 +3044,7 @@ cat slurm_template.sh</code></pre>
 #SBATCH --mem=        # memory to allocate
 #SBATCH --time=       # total run time limit (HH:MM:SS)
 #SBATCH --partition=  # request a specific partition for the resource allocation
-#SBATCH --error=      # create a file that contains error messages
+#SBATCH --error       # create a file that contains error messages
 #SBATCH --mail-type=  # send email when job begins and ends
 #SBATCH --mail-user=email@ucdavis.edu 
 </code></pre>
@@ -3065,7 +3066,7 @@ cat slurm_template.sh</code></pre>
 #SBATCH --partition=ecl243            # request a specific partition for the resource allocation
 #SBATCH --error trim_galore_%A_%a.err # create a file that contains error messages
 #SBATCH --mail-type=ALL               # send email when job begins and ends
-#SBATCH --mail-user=email@ucdavis.edu
+#SBATCH --mail-user=&lt;email&gt;@ucdavis.edu
 
 module load trim_galore
 trim_galore -q 20 --paired ~/fastqs/CPE1_R1.fastq ~/fastqs/CPE1_R2.fastq
@@ -3095,7 +3096,7 @@ trim_galore -q 20 --paired ~/fastqs/CPE1_R1.fastq ~/fastqs/CPE1_R2.fastq
 <li><p>A file will appear in the directory containing your <code>trim_galore.sh</code> that looks like <code>slurm-JOBID.out</code></p></li>
 <li><p>This file will contain anything that is written to standard out by trim galore, along with information about your job.</p></li>
 </ul>
-<pre class="bash"><code>cat slurm-JOBID.out</code></pre>
+<pre class="bash"><code>cat slurm-&lt;JOBID&gt;.out</code></pre>
 <pre class="bash"><code>==========================================
 SLURM_JOB_ID = 29741087
 SLURM_NODELIST = bigmem9
@@ -3127,7 +3128,7 @@ Max Disk Read       : 0.00  (bigmem9)</code></pre>
 <div id="checking-stderror" class="section level3">
 <h3>Checking stderror</h3>
 <p>Another file will appear that looks like this <code>trim_galore_JOBID_TASKID.err</code></p>
-<pre class="bash"><code>head trim_galore_JOBID_TASKID.err</code></pre>
+<pre class="bash"><code>head trim_galore_&lt;JOBID_TASKID&gt;.err</code></pre>
 <pre class="bash"><code>Module perlbrew/5.16.0 loaded
  Please be sure your perl scripts hashbang line is #!/usr/bin/env perl
 Module trim_galore/1 loaded
@@ -3151,12 +3152,16 @@ AUTO-DETECTING ADAPTER TYPE</code></pre>
 <div id="run-multiqc-with-an-interactive-session" class="section level2">
 <h2>6. Run multiqc with an interactive session</h2>
 <p>Multiqc is a really awesome quality control tool that can recognize summary files produced by popular bioinformatics software. You simply run <code>multiqc .</code> and the program will look through the current directory to find summary files and produce interactive plots that can be viewed in .html.</p>
+<div id="should-i-use-interactive-mode-or-submit-a-job" class="section level3">
+<h3>Should I use interactive mode or submit a job?</h3>
+<ul>
+<li><p>Interactive sessions let you move to a compute node where you can test commands and run short jobs. You need to be logged on while the entire time a job runs.</p></li>
+<li><p>Submitting jobs allows you to log off of the cluster and enjoy your day while your job runs.</p></li>
+</ul>
+</div>
 <div id="run-multiqc" class="section level3">
 <h3>Run multiqc</h3>
 <p><span style="color:red"><strong>!!!!!! BUT FIRST !!!!!!</strong></span></p>
-<ul>
-<li>Interactive sessions let you move to a compute node where you can test commands and run short jobs.</li>
-</ul>
 </div>
 <div id="initiate-an-interactive-session-with-srun" class="section level3">
 <h3>Initiate an interactive session with <code>srun</code></h3>
@@ -3173,7 +3178,7 @@ multiqc .</code></pre>
 <ul>
 <li>Remember to use your username</li>
 </ul>
-<pre class="bash"><code>scp -P 2022 username@farm.cse.ucdavis.edu:multiqc_report.html path/to/Downloads/ </code></pre>
+<pre class="bash"><code>scp -P 2022 &lt;username&gt;@farm.cse.ucdavis.edu:multiqc_report.html path/to/Downloads/ </code></pre>
 <p><br /> <br /> <br /></p>
 </div>
 </div>
