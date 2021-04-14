@@ -7,6 +7,9 @@ header:
   overlay_image: aspens.jpg
 ---
 
+## 2021 
+Invited speaker. Center for Population Biology Graduate Group Seminar. University of California, Davis. [Watch on YouTube](https://youtu.be/6WSzoln2ClU)
+
 ## 2020 
 Public Defense. University of North Carolina, Chapel Hill, NC. [Watch on YouTube](https://www.youtube.com/watch?v=arDgfxfuOBA)
 
