@@ -2,7 +2,7 @@
 
 permalink: /research/
 title: "Research"
-excerpt: "Evolution - Adaptation - Speciation"
+excerpt: "Genetics - Population Biology - Bioinformatics"
 author_profile: false
 redirect_from: 
   - /reseaerch/
@@ -14,7 +14,7 @@ header:
 
 
 
-All of my research questions are tied together by a curiosity about molecular changes that make populations unique. Pursuing these questions involves analyses of large –omics data sets which has made me passionate about learning, developing, and applying new bioinformatics approaches. Overall, I strive to conduct research that tests basic theory in evolution and ecology, generates findings that are reproducible and publicly available, and informs population management decisions that preserve biodiversity.
+I've always been driven by a curiosity about how genetic variation leads to variation in phenotypes. Before switching to human research, my academic research focused on different fish study systems. My projects involved analyses of large –omics data sets which made me passionate about learning, developing, and applying new bioinformatics approaches.
 
 ## The genetic basis of complex adaptive traits
 ![pupfish](/images/P3182392_copy.jpg "generalist pupfish")  
@@ -33,6 +33,26 @@ ___
 
 For another main project, I’m analyzing genomic samples from several populations of Pacific herring to understand the impacts of the Exxon Valdez oil spill on population collapse and lack of recovery in Prince William Sound, Alaska. The herring fishery in Prince William Sound declined by 75% from 1988 to 1993 and has yet to recover 27 years later. I am using spatial and temporal genomic contrasts to discover changes in allele frequencies pre- and post-collapse that could help to explain the lack of population recovery. This project is in collaboration with [Vince Buffalo](https://github.com/vsbuffalo)
 #### For more see my [pac_herring](https://github.com/joemcgirr/pac_herring) repo
+
+# Talks
+
+## 2021 
+Invited speaker. Center for Population Biology Graduate Group Seminar. University of California, Davis. [Watch on YouTube](https://youtu.be/6WSzoln2ClU)
+
+## 2020 
+Public Defense. University of North Carolina, Chapel Hill, NC. [Watch on YouTube](https://www.youtube.com/watch?v=arDgfxfuOBA)
+
+## 2019	
+Contributed talk. Society for the Study of Evolution meeting. Providence, RI. [Watch on YouTube](https://www.youtube.com/watch?v=cEX8pR48S-E)
+
+Invited speaker. Research in Progress Seminar Series. East Carolina University. Greensville, NC.
+
+## 2018		
+Contributed talk. Society for Integrative and Comparative Biology meeting. San Francisco, CA.
+
+Contributed talk. Society for the Study of Evolution meeting. Portland, OR. [Watch on YouTube](https://www.youtube.com/watch?v=vl1tPdzJyV4)
+
+Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
 
 
 
