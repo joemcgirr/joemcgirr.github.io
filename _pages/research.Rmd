@@ -37,7 +37,10 @@ For another main project, I analyzed genomic samples from several populations of
 #### For more see my [pac_herring](https://github.com/joemcgirr/pac_herring) repo
   
   
-
+---
+  
+    
+  
 # Talks
 
 ## 2021 
@@ -59,7 +62,10 @@ Contributed talk. Society for the Study of Evolution meeting. Portland, OR. [Wat
 Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
   
   
+---
   
+    
+   
 # Data Links
 
 ## Cyprinodon pupfish genomes and transcriptomes 

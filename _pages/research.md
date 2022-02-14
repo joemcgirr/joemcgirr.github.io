@@ -25,17 +25,20 @@ ___
 ## From oceans to rivers and lakes
 ![fundulus](/images/14_killifish.png "fundulus")  
 
-My postdoctoral research in Andrew Whitehead’s lab continues to explore questions related to adaptation and speciation. For one main project, I’m studying a radiation of Fundulus fishes that occupy diverse osmotic environments to understand adaptations that allowed freshwater specialists to evolve from marine-dwelling ancestors. Since this transition occurred several times independently across multiple clades, I’m searching for parallel and divergent gene regulatory mechanisms underlying freshwater adaptations by identifying cross-species differential gene expression in response to osmotic stress. This project is in collaboration with [Lisa Johnson](https://github.com/johnsolk) 
+My postdoctoral research in Andrew Whitehead’s lab continued to explore questions related to adaptation and speciation. For one main project, I studied a radiation of Fundulus fishes that occupy diverse osmotic environments to understand adaptations that allowed freshwater specialists to evolve from marine-dwelling ancestors. Since this transition occurred several times independently across multiple clades, I searched for parallel and divergent gene regulatory mechanisms underlying freshwater adaptations by identifying cross-species differential gene expression in response to osmotic stress. This project is in collaboration with [Lisa Johnson](https://github.com/johnsolk) 
 #### For more see the [RNAseq_17killifish_osmotic](https://github.com/joemcgirr/RNAseq_17killifish_osmotic) repo
 ___
 ## The genomics of population collapse and recovery
 ![herring](/images/school-herring-indigenous-rights-1200x799.jpg "herring")  
 
-For another main project, I’m analyzing genomic samples from several populations of Pacific herring to understand the impacts of the Exxon Valdez oil spill on population collapse and lack of recovery in Prince William Sound, Alaska. The herring fishery in Prince William Sound declined by 75% from 1988 to 1993 and has yet to recover 27 years later. I am using spatial and temporal genomic contrasts to discover changes in allele frequencies pre- and post-collapse that could help to explain the lack of population recovery. This project is in collaboration with [Vince Buffalo](https://github.com/vsbuffalo)
+For another main project, I analyzed genomic samples from several populations of Pacific herring to understand the impacts of the Exxon Valdez oil spill on population collapse and lack of recovery in Prince William Sound, Alaska. The herring fishery in Prince William Sound declined by 75% from 1988 to 1993 and has yet to recover 27 years later. I used spatial and temporal genomic contrasts to discover changes in allele frequencies pre- and post-collapse that could help to explain the lack of population recovery. This project is in collaboration with [Vince Buffalo](https://github.com/vsbuffalo)
 #### For more see my [pac_herring](https://github.com/joemcgirr/pac_herring) repo
   
   
-
+---
+  
+    
+  
 # Talks
 
 ## 2021 
@@ -57,7 +60,10 @@ Contributed talk. Society for the Study of Evolution meeting. Portland, OR. [Wat
 Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
   
   
+---
   
+    
+   
 # Data Links
 
 ## Cyprinodon pupfish genomes and transcriptomes 
