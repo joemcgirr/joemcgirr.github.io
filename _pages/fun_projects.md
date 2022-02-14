@@ -37,7 +37,7 @@ feature_row2:
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
     excerpt: "This is a pipeline to generate a filtered SNP .vcf file from raw .fastq files. The approach is designed for hundreds of whole-genome low coverage sequences."
-    url: https://github.com/joemcgirr/rock_climbing/blob/main/trad_rack/trad_rack.html
+    url: https://htmlpreview.github.io/?https://github.com/joemcgirr/rock_climbing/blob/main/trad_rack/trad_rack.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
   
