@@ -2,7 +2,7 @@
 
 permalink: /research/
 title: "Research"
-excerpt: "Evolution - Adaptation - Speciation"
+excerpt: "Genetics - Population Biology - Bioinformatics"
 author_profile: false
 redirect_from: 
   - /reseaerch/
@@ -16,7 +16,7 @@ header:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-All of my research questions are tied together by a curiosity about molecular changes that make populations unique. Pursuing these questions involves analyses of large –omics data sets which has made me passionate about learning, developing, and applying new bioinformatics approaches. Overall, I strive to conduct research that tests basic theory in evolution and ecology, generates findings that are reproducible and publicly available, and informs population management decisions that preserve biodiversity.
+I've always been driven by a curiosity about molecular changes that make populations unique. Before switching to human research, my academic research focused on different fish study systems. My projects required analyses of large –omics data sets which made me passionate about learning, developing, and applying new bioinformatics approaches.
 
 ## The genetic basis of complex adaptive traits
 ![pupfish](/images/P3182392_copy.jpg "generalist pupfish")  
