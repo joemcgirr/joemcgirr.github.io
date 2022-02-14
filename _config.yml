@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Joe McGirr"
-description              : &description "Postoctoral Researcher in the Whitehead Lab at UC Davis"
+description              : &description "Bioinformatics Scientist at ThermoFisher Scientific"
 url                      : "https://joemcgirr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joemcgirr/joemcgirr.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Joe McGirr, PhD"
   avatar           : "profile2.jpg"
-  bio              : "Evolutionary genetics in the Whitehead Lab at UC Davis"
-  location         : "Davis, CA"
+  bio              : "Bioinformatics Scientist at ThermoFisher Scientific"
+  location         : "Oakland, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BaXHXekAAAAJ&hl=en"
