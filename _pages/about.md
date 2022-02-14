@@ -27,7 +27,7 @@ gallery:
 
 
 
-I’m a bioinformatics scientist specializing in evolution and population biology. I have a Ph.D. in biology from the University of North Carolina and I am currently a postdoctoral researcher in the [Whitehead lab](https://whiteheadresearch.wordpress.com/) at UC Davis. My projects combine evolutionary theory with next generation sequencing data to answer questions at the intersection of basic and applied research. For more about my interests, check out [Research](https://joemcgirr.github.io/research/) and [Publications](https://joemcgirr.github.io/publications/)
+I’m a bioinformatics scientist specializing in genetics and population biology. I research copy number variation in the human genome and develop genotyping products at Thermo Fisher Scientific. Before joining industry, I was a postdoctoral researcher in the [Whitehead Lab](https://whiteheadresearch.wordpress.com/) at the University of California Davis affiliated with the Center for Population Biology. I received my PhD in biology from the University of North Carolina Chapel Hill as a member of the [Martin Lab](http://ib.berkeley.edu/labs/martin/).  For more about my interests, check out [Publications](https://joemcgirr.github.io/publications/)
 
 
 

@@ -29,13 +29,13 @@ gallery:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I’m a bioinformatics scientist specializing in evolution and population biology. I have a Ph.D. in biology from the University of North Carolina and I am currently a postdoctoral researcher in the [Whitehead lab](https://whiteheadresearch.wordpress.com/) at UC Davis. My projects combine evolutionary theory with next generation sequencing data to answer questions at the intersection of basic and applied research. For more about my interests, check out [Research](https://joemcgirr.github.io/research/) and [Publications](https://joemcgirr.github.io/publications/)
+I’m a bioinformatics scientist specializing in genetics and population biology. I research copy number variation in the human genome and develop genotyping products at Thermo Fisher Scientific. Before joining industry, I was a postdoctoral researcher in the [Whitehead Lab](https://whiteheadresearch.wordpress.com/) at the University of California Davis affiliated with the Center for Population Biology. I received my PhD in biology from the University of North Carolina Chapel Hill as a member of the [Martin Lab](http://ib.berkeley.edu/labs/martin/).  For more about my interests, check out [Publications](https://joemcgirr.github.io/publications/)
 
 
 
 
 
-``````{r, echo=FALSE,eval=FALSE}
+```{r, echo=FALSE,eval=FALSE}
 library(knitr)
 my.jekyll.site <- "joemcgirr.github.io"
 KnitPost <- function(input, base.url = my.jekyll.site) {
@@ -47,7 +47,7 @@ KnitPost <- function(input, base.url = my.jekyll.site) {
   knit(input, envir = parent.frame())
 }
 
-setwd("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/")
-KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/about.Rmd")
+setwd("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/")
+KnitPost("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/about.Rmd")
 
 ```
