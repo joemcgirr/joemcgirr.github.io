@@ -18,12 +18,7 @@ feature_row:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-  - image_path: cluster1.png
-    title: "Using the FARM Computer Cluster"
-    excerpt: "A tutorial on how to submit jobs on the UC Davis FARM cluster. Developed for ECL243 (Ecological Genomics graduate level course)"
-    url: /files/code_tutorials/FARM_Tutorial.html
-    btn_label: "See Code"
-    btn_class: "btn--inverse"
+feature_row2:
   - image_path: fig7.png
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
@@ -31,15 +26,23 @@ feature_row:
     url: /files/code_tutorials/plyranges_tutorial.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-    
-feature_row2:
+feature_row3:
   - image_path: coverage.png
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
     excerpt: "This is a pipeline to generate a filtered SNP .vcf file from raw .fastq files. The approach is designed for hundreds of whole-genome low coverage sequences."
-    url: https://htmlpreview.github.io/?https://github.com/joemcgirr/rock_climbing/blob/main/trad_rack/trad_rack.html
+    url: /files/code_tutorials/trad_rack.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
+feature_row4:
+  - image_path: cluster1.png
+    title: "Using the FARM Computer Cluster"
+    excerpt: "A tutorial on how to submit jobs on the UC Davis FARM cluster. Developed for ECL243 (Ecological Genomics graduate level course)"
+    url: /files/code_tutorials/FARM_Tutorial.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
+    
+
   
 ---
 
@@ -48,9 +51,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-{% include feature_row %}
-  
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="center" %}
+
+{% include feature_row id="feature_row4" type="left" %}
+
 
 ``````{r, echo=FALSE,eval=FALSE}
 #https://francojc.github.io/2014/12/19/publishing-rmarkdown-to-wordpress-or-jekyll/
