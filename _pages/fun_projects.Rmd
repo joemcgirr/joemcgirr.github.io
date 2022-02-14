@@ -9,8 +9,16 @@ author_profile: false
 
 header:
   overlay_image: grandma.jpg
-  
-feature_row:
+
+feature_row1:
+  - image_path: cam.jpg
+    alt: "Building a beginner trad rack"
+    title: "Building a beginner trad rack"
+    excerpt: "A set of analyses I used to find the perfect combination of rock climbing gear. I collected data for trad equipment offered by several manufacturers to compare price/quality tradeoffs."
+    url: /files/code_tutorials/trad_rack.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"  
+feature_row2:
   - image_path: coverage.png
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
@@ -18,20 +26,12 @@ feature_row:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row2:
+feature_row3:
   - image_path: fig7.png
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
     excerpt: "This is a quick tutorial on finding genes near candidate SNPs using my favorite R package plyranges."
     url: /files/code_tutorials/plyranges_tutorial.html
-    btn_label: "See Code"
-    btn_class: "btn--inverse"
-feature_row3:
-  - image_path: cam.jpg
-    alt: "Building a beginner trad rack"
-    title: "Building a beginner trad rack"
-    excerpt: "A set of analyses I used to find the perfect combination of rock climbing gear. I collected data for trad equipment offered by several manufacturers and compare price/quality tradeoffs."
-    url: /files/code_tutorials/trad_rack.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
 feature_row4:
@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
