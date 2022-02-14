@@ -33,7 +33,8 @@ ___
 
 For another main project, I’m analyzing genomic samples from several populations of Pacific herring to understand the impacts of the Exxon Valdez oil spill on population collapse and lack of recovery in Prince William Sound, Alaska. The herring fishery in Prince William Sound declined by 75% from 1988 to 1993 and has yet to recover 27 years later. I am using spatial and temporal genomic contrasts to discover changes in allele frequencies pre- and post-collapse that could help to explain the lack of population recovery. This project is in collaboration with [Vince Buffalo](https://github.com/vsbuffalo)
 #### For more see my [pac_herring](https://github.com/joemcgirr/pac_herring) repo
-
+  
+  
 
 # Talks
 
@@ -54,8 +55,9 @@ Contributed talk. Society for Integrative and Comparative Biology meeting. San F
 Contributed talk. Society for the Study of Evolution meeting. Portland, OR. [Watch on YouTube](https://www.youtube.com/watch?v=vl1tPdzJyV4)
 
 Contributed talk. SouthEastern Population Ecology and Evolutionary Genetics Conference. Laurel Hill NC.
-
-
+  
+  
+  
 # Data Links
 
 ## Cyprinodon pupfish genomes and transcriptomes 
