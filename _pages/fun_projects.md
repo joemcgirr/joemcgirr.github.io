@@ -10,7 +10,7 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
   
-feature_row1:
+feature_row:
   - image_path: coverage.png
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
@@ -32,6 +32,14 @@ feature_row1:
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
+feature_row2:
+  - image_path: coverage.png
+    alt: "Variant Filtering and QC"
+    title: "Variant Filtering and QC"
+    excerpt: "This is a pipeline to generate a filtered SNP .vcf file from raw .fastq files. The approach is designed for hundreds of whole-genome low coverage sequences."
+    url: https://github.com/joemcgirr/rock_climbing/blob/main/trad_rack/trad_rack.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
   
 ---
 
@@ -40,4 +48,6 @@ feature_row1:
 
 {% include feature_row %}
   
+{% include feature_row id="feature_row2" type="left" %}
+
 
