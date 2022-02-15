@@ -12,7 +12,7 @@ header:
 
 feature_row1:
   - image_path: cam.jpg
-    alt: "Building a beginner trad rack"
+    alt: "Building a Beginner Trad Rack"
     title: "Building a beginner trad rack"
     excerpt: "A set of analyses I used to find the perfect combination of rock climbing gear. I collected data for trad equipment offered by several manufacturers to compare price/quality tradeoffs."
     url: /files/code_tutorials/trad_rack.html
