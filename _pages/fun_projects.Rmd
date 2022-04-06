@@ -11,7 +11,7 @@ header:
   overlay_image: grandma.jpg
 
 feature_row1:
-  - image_path: turtle.jpg
+  - image_path: crag_maps.jpg
     alt: "Crag Map"
     title: "Crag Map"
     excerpt: "An interactive map tracking the locations of crags I've climbed at. Built with R shiny. Git Repo: joemcgirr/rock_climbing/crag_maps"
