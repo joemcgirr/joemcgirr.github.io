@@ -11,6 +11,14 @@ header:
   overlay_image: grandma.jpg
 
 feature_row1:
+  - image_path: turtle.jpg
+    alt: "Crag Map"
+    title: "Crag Map"
+    excerpt: "An interactive map tracking the locations of crags I've climbed at. Built with R shiny. Git Repo: joemcgirr/rock_climbing/crag_maps"
+    url: https://joemcgirr.shinyapps.io/crag_maps/
+    btn_label: "See Map"
+    btn_class: "btn--inverse"  
+feature_row2:
   - image_path: cam.jpg
     alt: "Building a Beginner Trad Rack"
     title: "Building a beginner trad rack"
@@ -18,7 +26,7 @@ feature_row1:
     url: /files/code_tutorials/trad_rack.html
     btn_label: "See Code"
     btn_class: "btn--inverse"  
-feature_row2:
+feature_row3:
   - image_path: coverage.png
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
@@ -26,7 +34,7 @@ feature_row2:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row3:
+feature_row4:
   - image_path: fig7.png
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
@@ -34,7 +42,7 @@ feature_row3:
     url: /files/code_tutorials/plyranges_tutorial.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row4:
+feature_row5:
   - image_path: cluster1.png
     title: "Using the FARM Computer Cluster"
     excerpt: "A tutorial on how to submit jobs on the UC Davis FARM cluster. Developed for ECL243 (Ecological Genomics graduate level course)"
@@ -42,8 +50,6 @@ feature_row4:
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
-
-  
 ---
 
 
@@ -56,6 +62,9 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="right" %}
+
 
 
 
