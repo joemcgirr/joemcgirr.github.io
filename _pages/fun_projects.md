@@ -54,7 +54,7 @@ feature_row6:
   - image_path: cluster1.png
     title: "Test"
     excerpt: "test"
-    url: https://github.com/joemcgirr/joe_genome/blob/main/test.html
+    url: /files/code_tutorials/my_genome/test.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
