@@ -50,6 +50,14 @@ feature_row5:
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
+feature_row6:
+  - image_path: cluster1.png
+    title: "Test"
+    excerpt: "test"
+    url: https://github.com/joemcgirr/joe_genome/blob/main/test.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -67,6 +75,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 {% include feature_row id="feature_row5" type="right" %}
 
+{% include feature_row id="feature_row6" type="right" %}
+
+
 
 
 ```{r, echo=FALSE,eval=FALSE}
@@ -83,7 +94,11 @@ KnitPost <- function(input, base.url = my.jekyll.site) {
   knit(input, envir = parent.frame())
 }
 
-setwd("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/")
-KnitPost("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/fun_projects.Rmd")
+#setwd("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/")
+#KnitPost("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/fun_projects.Rmd")
+
+setwd("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/")
+KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/fun_projects.Rmd")
+
 
 ```

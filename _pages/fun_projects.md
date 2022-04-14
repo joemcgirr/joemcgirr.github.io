@@ -50,6 +50,14 @@ feature_row5:
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
+feature_row6:
+  - image_path: cluster1.png
+    title: "Test"
+    excerpt: "test"
+    url: https://github.com/joemcgirr/joe_genome/blob/main/test.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
+    
 ---
 
 
@@ -64,6 +72,9 @@ feature_row5:
 {% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="right" %}
+
 
 
 
