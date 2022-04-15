@@ -14,7 +14,7 @@ feature_row6:
   - image_path: snpeff.jpg
     title: "Annotating My Genomic Variants"
     excerpt: "I search my whole genome sequence data for any variants known to disrupt protein function or play a role in disease."
-    url: /files/code_tutorials/my_genome/test.html
+    url: /files/code_tutorials/my_genome/SnpEFF.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
 feature_row5:
