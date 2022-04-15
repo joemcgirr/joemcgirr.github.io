@@ -10,7 +10,14 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
 
-feature_row1:
+feature_row6:
+  - image_path: snpeff.jpg
+    title: "Annotating My Genomic Variants"
+    excerpt: "I search my whole genome sequence data for any variants known to disrupt protein function or play a role in disease."
+    url: /files/code_tutorials/my_genome/SnpEFF.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
+feature_row5:
   - image_path: turtle.jpg
     alt: "Crag Map"
     title: "Crag Map"
@@ -18,7 +25,7 @@ feature_row1:
     url: https://joemcgirr.shinyapps.io/crag_maps/
     btn_label: "See Map"
     btn_class: "btn--inverse"  
-feature_row2:
+feature_row4:
   - image_path: cam.jpg
     alt: "Building a Beginner Trad Rack"
     title: "Building a beginner trad rack"
@@ -34,7 +41,7 @@ feature_row3:
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row4:
+feature_row2:
   - image_path: fig7.png
     alt: "Overlapping Genomic Regions of Interest"
     title: "Overlapping Genomic Regions of Interest"
@@ -42,19 +49,11 @@ feature_row4:
     url: /files/code_tutorials/plyranges_tutorial.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row5:
+feature_row1:
   - image_path: cluster1.png
     title: "Using the FARM Computer Cluster"
     excerpt: "A tutorial on how to submit jobs on the UC Davis FARM cluster. Developed for ECL243 (Ecological Genomics graduate level course)"
     url: /files/code_tutorials/FARM_Tutorial.html
-    btn_label: "See Code"
-    btn_class: "btn--inverse"
-    
-feature_row6:
-  - image_path: cluster1.png
-    title: "Test"
-    excerpt: "test"
-    url: /files/code_tutorials/my_genome/test.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
@@ -65,17 +64,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-{% include feature_row id="feature_row1" type="left" %}
-
-{% include feature_row id="feature_row2" type="right" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row6" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
 
-{% include feature_row id="feature_row6" type="right" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row1" type="right" %}
 
 
 
