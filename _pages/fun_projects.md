@@ -10,7 +10,7 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
   
-feature_row6:
+feature_row7:
   - image_path: gwascat.jpg
     title: "Searching the GWAS Catelog and Calculating PRS"
     excerpt: "I search for my genomic variants in the GWAS catalog looking for variant-phenotype associations and calculate polygenic risk scores."
@@ -68,6 +68,7 @@ feature_row1:
 
 
 
+{% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
 
