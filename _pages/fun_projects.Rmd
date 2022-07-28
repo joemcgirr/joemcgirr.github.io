@@ -70,6 +70,7 @@ feature_row1:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+{% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
 
