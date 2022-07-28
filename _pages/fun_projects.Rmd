@@ -12,7 +12,7 @@ header:
   
 feature_row7:
   - image_path: gwascat.jpg
-    title: "Searching the GWAS Catelog and Calculating PRS"
+    title: "Searching the GWAS Catalog and Calculating PRS"
     excerpt: "I search for my genomic variants in the GWAS catalog looking for variant-phenotype associations and calculate polygenic risk scores."
     url: /files/code_tutorials/my_genome/gwascat.html
     btn_label: "See Code"
