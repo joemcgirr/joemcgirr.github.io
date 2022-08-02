@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Resume and CV"
+permalink: /resume/
 author_profile: false
 header:
   overlay_image: elcap.jpg
