@@ -10,28 +10,36 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
   
-feature_row7:
+feature_row8:
   - image_path: gwascat.jpg
     title: "Searching the GWAS Catalog and Calculating PRS"
     excerpt: "I search for my genomic variants in the GWAS catalog looking for variant-phenotype associations and calculate polygenic risk scores."
     url: /files/code_tutorials/my_genome/gwascat.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row6:
+feature_row7:
   - image_path: snpeff.jpg
     title: "Annotating My Genomic Variants"
     excerpt: "I search my whole genome sequence data for any variants known to disrupt protein function or play a role in disease."
     url: /files/code_tutorials/my_genome/SnpEFF.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row5:
+feature_row6:
   - image_path: turtle.jpg
     alt: "Crag Map"
     title: "Crag Map"
     excerpt: "An interactive map tracking the locations of crags I've climbed at. Built with R shiny. Git Repo: joemcgirr/rock_climbing/crag_maps"
     url: https://joemcgirr.shinyapps.io/crag_maps/
     btn_label: "See Map"
-    btn_class: "btn--inverse"  
+    btn_class: "btn--inverse" 
+feature_row5:
+  - image_path: fitness_app.JPG
+    alt: "Exercise Routine Generator"
+    title: "Exercise Routine Generator"
+    excerpt: "R Shiny app to create exercise routines based on desired training type, 3 rep max weight, and target muscle groups. Git Repo: joemcgirr/fitness_app"
+    url: https://joemcgirr.shinyapps.io/fitness_app/
+    btn_label: "See App"
+    btn_class: "btn--inverse" 
 feature_row4:
   - image_path: cam.jpg
     alt: "Building a Beginner Trad Rack"
@@ -70,6 +78,8 @@ feature_row1:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+{% include feature_row id="feature_row8" type="right" %}
+
 {% include feature_row id="feature_row7" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
@@ -101,11 +111,11 @@ KnitPost <- function(input, base.url = my.jekyll.site) {
   knit(input, envir = parent.frame())
 }
 
-#setwd("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/")
-#KnitPost("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/fun_projects.Rmd")
+setwd("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/")
+KnitPost("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/fun_projects.Rmd")
 
-setwd("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/")
-KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/fun_projects.Rmd")
+#setwd("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/")
+#KnitPost("C:/Users/jmcgirr/Documents/GitHub/my_website/_pages/fun_projects.Rmd")
 
 
 ```
