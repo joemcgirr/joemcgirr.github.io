@@ -10,21 +10,21 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
   
-feature_row8:
+feature_row9:
   - image_path: gwascat.jpg
     title: "Searching the GWAS Catalog and Calculating PRS"
     excerpt: "I search for my genomic variants in the GWAS catalog looking for variant-phenotype associations and calculate polygenic risk scores."
     url: /files/code_tutorials/my_genome/gwascat.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row7:
+feature_row8:
   - image_path: snpeff.jpg
     title: "Annotating My Genomic Variants"
     excerpt: "I search my whole genome sequence data for any variants known to disrupt protein function or play a role in disease."
     url: /files/code_tutorials/my_genome/SnpEFF.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row6:
+feature_row7:
   - image_path: turtle.jpg
     alt: "Crag Map"
     title: "Crag Map"
@@ -32,7 +32,7 @@ feature_row6:
     url: https://joemcgirr.shinyapps.io/crag_maps/
     btn_label: "See Map"
     btn_class: "btn--inverse" 
-feature_row5:
+feature_row6:
   - image_path: fitness_app.JPG
     alt: "Exercise Routine Generator"
     title: "Exercise Routine Generator"
@@ -40,7 +40,7 @@ feature_row5:
     url: https://joemcgirr.shinyapps.io/fitness_app/
     btn_label: "See App"
     btn_class: "btn--inverse" 
-feature_row4:
+feature_row5:
   - image_path: cam.jpg
     alt: "Building a Beginner Trad Rack"
     title: "Building a beginner trad rack"
@@ -48,13 +48,20 @@ feature_row4:
     url: /files/code_tutorials/trad_rack.html
     btn_label: "See Code"
     btn_class: "btn--inverse"  
-feature_row3:
+feature_row4:
   - image_path: coverage.png
     alt: "Variant Filtering and QC"
     title: "Variant Filtering and QC"
     excerpt: "This is a pipeline to generate a filtered SNP .vcf file from raw .fastq files. The approach is designed for hundreds of whole-genome low coverage sequences."
     url: /files/code_tutorials/Pacific_Herring_fastq_to_vcf.html
     btn_label: "See Code"
+    btn_class: "btn--inverse"
+feature_row3:
+  - image_path: grad_school.JPG
+    title: "Grad School Advice"
+    excerpt: "My thoughts on choosing a PhD program and thesis lab. Questions to ask before decide."
+    url: /files/code_tutorials/grad_school_advice.html
+    btn_label: "See Advice"
     btn_class: "btn--inverse"
 feature_row2:
   - image_path: fig7.png
@@ -72,9 +79,13 @@ feature_row1:
     btn_label: "See Code"
     btn_class: "btn--inverse"
     
+
+    
 ---
 
 
+
+{% include feature_row id="feature_row9" type="right" %}
 
 {% include feature_row id="feature_row8" type="right" %}
 

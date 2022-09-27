@@ -1,0 +1,172 @@
+---
+title: "Grad School Advice from a Biologist"
+author: "Joe McGirr"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    code_folding: hide
+    collapsed: no
+    df_print: paged
+    number_sections: no
+    theme: readable
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+  html_notebook:
+    toc: yes
+    toc_depth: 3
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
+  editor_options:
+    chunk_output_type: console
+---
+
+# Intro
+
+I’m a bioinformatics scientist specializing in genetics and population biology. 
+I research copy number variation in the human genome and develop genotyping 
+products at Thermo Fisher Scientific. Before joining industry, I was a 
+postdoctoral researcher in the 
+[Whitehead Lab](https://whiteheadresearch.wordpress.com/) at the University of 
+California Davis affiliated with the Center for Population Biology. I received 
+my PhD in biology from the University of North Carolina Chapel Hill as a member 
+of the [Martin Lab](http://ib.berkeley.edu/labs/martin/). 
+
+These are my thoughts on choosing a PhD program and thesis lab based on my 
+experiences. I studied evolution, genomics, and gene regulation in graduate 
+school. Most of my advice will likely be most useful to students considering 
+Biology programs, but some of it may apply to other STEM fields. If you were 
+sent here by David Horber, then congratulations! You’re already getting great 
+advice and everything below is just a bonus.
+
+# What to Consider When Applying to Graduate Schools
+
+## Career Goals
+
+It’s best to begin by defining career goals broadly. There are three main career
+trajectories for biologists with PhDs: Academia, Industry, and Government work. 
+You certainly don’t need to choose a specific career before starting graduate 
+school, but having an idea of what type of job might interest you will help 
+guide you in your search for the right program.
+
+Your career goals will probably fluctuate throughout graduate school. After all,
+you’re trying to define your goals without any experience as a scientist yet! 
+It’s ok for plans to change. I flirted with all three career trajectories during
+my PhD and postdoc years. I felt that I needed to gain more experience as a 
+scientist before committing to a particular path, so my strategy was to be a 
+generalist. I took on projects that would lead to several publications (to score
+academic points), help me learn bioinformatics (skills valuable in industry), 
+and allow me to work with cool animal systems (also studied by US Fish and
+Wildlife agencies). 
+
+## PhD Program
+
+Some students begin graduate school with a very specific idea of the types of 
+projects they want to pursue, while others just know that they are motivated to 
+do research and want to continue their education at an advanced level. I 
+considered myself in this latter category when I started applying to schools. 
+Luckily, many universities offer some flexibility when it comes to choosing a 
+curriculum. 
+
+If you’re like me and you want to explore your options before making big life 
+decisions, you should look into joining an Umbrella Program. This is where many 
+students are accepted to join a program (e.g. The Biological & Biomedical 
+Sciences Program at UNC), but do not become affiliated with a specific program 
+(e.g. Curriculum in Genetics and Molecular Biology) or a lab until the end of 
+your first year. Instead, you rotate through multiple labs during your first 
+year, spending a few months working on a short project. Umbrella programs are 
+common in the biomedical sciences. 
+
+The ability to experience a lab before joining one was very important to me. It 
+helped me better understand my scientific interests and feel out several 
+mentorship styles by working with three PIs before committing to four years with
+one of them. The rotation projects also helped me build confidence as a first 
+generation scientist coming straight into graduate school without a master’s 
+degree.
+
+If you’re not like me and you already have a solid understanding of the types of
+research projects you want to pursue, then you might be better off joining a lab
+directly instead of doing lab rotations. This is the more common program 
+structure in evolution and ecology research.
+
+Whether you choose to do rotations or not, I’d recommend doing extensive 
+research online about the types of programs that align with your scientific 
+interests. Ivy league universities have prestigious reputations, but may not 
+rate highly within your particular field of study. I think that finding the 
+right lab is generally more important than the university. However, labs at big 
+R1 universities tend to have more advanced facilities and generate more 
+opportunities for interdisciplinary research. 
+
+## PhD Advisor and Lab Culture
+
+Choosing a mentor is the most important decision you make in the first year of 
+graduate school – made more challenging by the fact that a mentor must also 
+choose you! My postdoc advisor’s website is a great resource to help you 
+understand the mentor-mentee relationship. See 
+[here](https://whiteheadresearch.wordpress.com/people/#mentorship.expectations) 
+to read how he describes his expectations for himself and his students. He also 
+has a great section on his general 
+[mentorship philosophy](https://whiteheadresearch.wordpress.com/people/#mentorship.philosophy).
+Choosing a mentor would be much easier if all PIs made this information 
+available to prospective students!
+
+Questions you should consider before choosing a lab and advisor:
+ - How do current lab members view their PI?
+ - What is the graduate student stipend and how does it compare with the cost of
+ living in the city?
+ - What is the lab’s funding situation? Is there funding available for research 
+ assistantships or will you need to be a teaching assistant every semester to 
+ earn your stipend?
+ - How long does it generally take for students in the lab to graduate?
+ - How many grad students and postdocs are in the lab?
+ - Do graduate students normally work on the weekends?
+ - Is the lab culture more supportive or more competitive?
+ - Is the advisor’s mentoring style more based on positive reinforcement or 
+ negative reinforcement? 
+ - Does the PI have tenure or are they still working towards it? There can be 
+ pros and cons to both. When I joined my lab it was my PI’s first year as a 
+ professor and he was motivated to publish quickly. This worked out great for 
+ me because his motivation was contagious and he invested a lot of time in my 
+ projects. However, this could have led to a situation where I felt overly 
+ pressured causing me to burnout. More established professors might have less 
+ motivation or time to invest in students, but often have more resources and a 
+ larger professional network. 
+ - Is the PI a lumper or a splitter when it comes to publishing? That is, do 
+ they tend to publish each chapter of a student’s thesis or do they combine all 
+ of a student’s (or multiple students) projects into one big publication. There 
+ are advantages to both, but you should be aware of any bias. Lumping can lead 
+ to publication in high impact journals, while splitting can give you more 
+ writing experience and first author publications. 
+
+To answer some of these questions, you have to spend some time in the lab, which
+is why I am a big proponent of lab rotations. However, most can be answered by 
+reaching out to the PI and their students (both current and past members). 
+You’ll want to understand most of this before attending interviews. 
+
+## Choosing Projects
+
+My undergraduate advisor gave me great advice on choosing research projects in 
+graduate school. After your first year or so, you should have an idea what 
+questions you’d like to pursue. Sort your questions into three types of 
+projects:
+
+ 1. ‘Easy’ projects that you are very confident you can complete within two 
+ years. The research might not answer a big, longstanding question in your 
+ field, but will give you valuable experience and a publication to your name. 
+ 2. A ‘difficult’ project that you can most likely complete in three years and 
+ answers a question that scientists in your field will find very interesting. 
+ 3. A ‘shoot for the moon’ project that has a slim chance of working out, but 
+ if it did, would lead to a discovery that is interesting to a large audience of
+ scientists across disciplines.
+
+Some of your projects will not all work out. Failure is a defining feature of 
+graduate school. When you inevitably feel demoralized about your research, 
+remember what made you passionate about science in the first place and keep on 
+chasing the questions that inspire your curiosity. 
+
+# Further Reading
+
+[Applying to Graduate School](http://www.catherinelalves.com/apply-to-graduate-school.html)
+
+[Nail the Inquiry Email](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/)
