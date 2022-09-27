@@ -112,19 +112,28 @@ Choosing a mentor would be much easier if all PIs made this information
 available to prospective students!
 
 Questions you should consider before choosing a lab and advisor:
- - How do current lab members view their PI?
- - What is the graduate student stipend and how does it compare with the cost of
+
+ * How do current lab members view their PI?
+ 
+ * What is the graduate student stipend and how does it compare with the cost of
  living in the city?
- - What is the lab’s funding situation? Is there funding available for research 
+ 
+ * What is the lab’s funding situation? Is there funding available for research 
  assistantships or will you need to be a teaching assistant every semester to 
  earn your stipend?
- - How long does it generally take for students in the lab to graduate?
- - How many grad students and postdocs are in the lab?
- - Do graduate students normally work on the weekends?
- - Is the lab culture more supportive or more competitive?
- - Is the advisor’s mentoring style more based on positive reinforcement or 
+ 
+ * How long does it generally take for students in the lab to graduate?
+ 
+ * How many grad students and postdocs are in the lab?
+ 
+ * Do graduate students normally work on the weekends?
+ 
+ * Is the lab culture more supportive or more competitive?
+ 
+ * Is the advisor’s mentoring style more based on positive reinforcement or 
  negative reinforcement? 
- - Does the PI have tenure or are they still working towards it? There can be 
+ 
+ * Does the PI have tenure or are they still working towards it? There can be 
  pros and cons to both. When I joined my lab it was my PI’s first year as a 
  professor and he was motivated to publish quickly. This worked out great for 
  me because his motivation was contagious and he invested a lot of time in my 
@@ -132,7 +141,8 @@ Questions you should consider before choosing a lab and advisor:
  pressured causing me to burnout. More established professors might have less 
  motivation or time to invest in students, but often have more resources and a 
  larger professional network. 
- - Is the PI a lumper or a splitter when it comes to publishing? That is, do 
+ 
+ * Is the PI a lumper or a splitter when it comes to publishing? That is, do 
  they tend to publish each chapter of a student’s thesis or do they combine all 
  of a student’s (or multiple students) projects into one big publication. There 
  are advantages to both, but you should be aware of any bias. Lumping can lead 
