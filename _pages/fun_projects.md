@@ -28,7 +28,7 @@ feature_row8:
   - image_path: edc.jpeg
     title: "Searching Spotify's API"
     excerpt: "I search Spotify's API to get popularity data on artists at the EDC 2024 festival."
-    url: /files/code_tutorials/my_genome/EDC_2024.html
+    url: /files/code_tutorials/EDC_2024.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
 feature_row7:
