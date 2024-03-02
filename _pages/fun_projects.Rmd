@@ -10,18 +10,25 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
   
-feature_row9:
+feature_row10:
   - image_path: gwascat.jpg
     title: "Searching the GWAS Catalog and Calculating PRS"
     excerpt: "I search for my genomic variants in the GWAS catalog looking for variant-phenotype associations and calculate polygenic risk scores."
     url: /files/code_tutorials/my_genome/gwascat.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row8:
+feature_row9:
   - image_path: snpeff.jpg
     title: "Annotating My Genomic Variants"
     excerpt: "I search my whole genome sequence data for any variants known to disrupt protein function or play a role in disease."
     url: /files/code_tutorials/my_genome/SnpEFF.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
+feature_row8:
+  - image_path: edc.jpeg
+    title: "Searching Spotify's API"
+    excerpt: "I search Spotify's API to get popularity data on artists at the EDC 2024 festival."
+    url: /files/code_tutorials/my_genome/EDC_2024.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
 feature_row7:
@@ -86,6 +93,8 @@ feature_row1:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+{% include feature_row id="feature_row10" type="right" %}
 
 {% include feature_row id="feature_row9" type="right" %}
 
