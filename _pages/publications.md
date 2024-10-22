@@ -7,6 +7,9 @@ header:
   overlay_image: louise.jpg
 ---
 
+## 2023
+Bogan SN, Johns J, Griffiths JS, Davenport D, Smith SJ, Schaal SM, Downey-Wall A, Lou RN, Lotterhos K, Guidry ME, Rivera HE, <b>McGirr JA</b>, Puritz JB, Roberts SB, Silliman K. A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io <i>Methods in Ecology and Evolution</i> [link](https://doi.org/10.1111/2041-210X.14219)
+
 ## 2021
 Richards EJ,<b>McGirr JA</b>, Wang JR, St. John ME, Poelstra JW, Solano MJ, O'Connell DC, Turner BJ, Martin CH. A vertebrate adaptive radiation is assembled from an ancient and disjunct spatiotemporal landscape. <i>PNAS</i> [link](https://doi.org/10.1073/pnas.2011811118)
 
