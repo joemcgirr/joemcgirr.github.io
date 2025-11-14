@@ -34,13 +34,10 @@ Our team improves existing microarray technology and develops new genotyping pro
 
 In my current role, I specialize in:
 
-  - Experimental Design -- I work closely with molecular biologists to design efficient experiments.
-  - Data Analysis -- I process large biological data sets on high performance computing clusters,
-  perform analyses using modern data science tools, and communicate interpretations that drive product development decisions.
-  - Pipeline Development -- I build workflows that automate repetitive processes and create apps with interactive visualizations, 
-  enabling molecular biologists to quickly explore their results.
-  - Algorithm Development -- I write tools to perform a variety of analyses and work closely with software developers to implement 
-  them into production level code.
+ -	Data Analysis and Interpretation: Processing large biological datasets on high-performance clusters. Conducting analyses with modern data science tools and statistical methods. Communicating interpretations that guide product development decisions.
+ -	Pipeline and Algorithm Development: Building workflows that automate complex processes. Creating applications and reports with interactive visualizations that enable scientists to explore their results. Working with software developers to implement my tools in user-facing programs.
+ -	Cross-Functional Collaboration: Representing bioinformatics on teams directing new product introductions and incubation projects. Presenting at scientific conferences and departmental seminars. Collaborating with scientists internally to design experiments. Collaborating with external scientists to design products specific to their research applications. 
+
    
 
 Before joining industry, I was a postdoctoral researcher in the [Whitehead Lab](https://whiteheadresearch.wordpress.com/) 
@@ -67,6 +64,8 @@ KnitPost <- function(input, base.url = my.jekyll.site) {
 }
 
 setwd("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/")
-KnitPost("C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/about.Rmd")
+KnitPost(
+  "C:/Users/joseph.mcgirr/Personal/Github/joemcgirr.github.io/_pages/about.Rmd"
+)
 
 ```

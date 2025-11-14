@@ -7,6 +7,9 @@ header:
   overlay_image: louise.jpg
 ---
 
+## 2025
+Tisthammer KH, <b>McGirr JA</b>, Oziolor EM, Buffalo V, Roach J, Whitehead A. Evidence of positive polygenic selection following a series of environmental and demographic disasters in Pacific herring <i>Preprint</i> [link](https://www.biorxiv.org/content/10.1101/2025.08.05.668748v1.abstract)
+
 ## 2023
 Bogan SN, Johns J, Griffiths JS, Davenport D, Smith SJ, Schaal SM, Downey-Wall A, Lou RN, Lotterhos K, Guidry ME, Rivera HE, <b>McGirr JA</b>, Puritz JB, Roberts SB, Silliman K. A dynamic web resource for robust and reproducible genomics in nonmodel species: marineomics.io <i>Methods in Ecology and Evolution</i> [link](https://doi.org/10.1111/2041-210X.14219)
 
