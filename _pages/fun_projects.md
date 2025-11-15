@@ -10,35 +10,35 @@ author_profile: false
 header:
   overlay_image: grandma.jpg
   
-feature_row11:
+feature_row10:
   - image_path: gwascat.jpg
     title: "Searching the GWAS Catalog and Calculating PRS"
     excerpt: "I search for my genomic variants in the GWAS catalog looking for variant-phenotype associations and calculate polygenic risk scores."
     url: /files/code_tutorials/my_genome/gwascat.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row10:
+feature_row9:
   - image_path: snpeff.jpg
     title: "Annotating My Genomic Variants"
     excerpt: "I search my whole genome sequence data for any variants known to disrupt protein function or play a role in disease."
     url: /files/code_tutorials/my_genome/SnpEFF.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row9:
+feature_row8:
   - image_path: edc.jpeg
     title: "Using Spotify's Public Search API"
     excerpt: "I search Spotify's API to get popularity data on artists at the EDC 2024 festival."
     url: /files/code_tutorials/EDC_2024.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row8:
+feature_row7:
   - image_path: edc.jpeg
     title: "Plotting Set Time Conflicts"
     excerpt: "I plot set time conflicts for artists at the EDC 2025 festival."
     url: /files/code_tutorials/edc_2025_set_times.html
     btn_label: "See Code"
     btn_class: "btn--inverse"
-feature_row7:
+feature_row6:
   - image_path: turtle.jpg
     alt: "Crag Map"
     title: "Crag Map"
@@ -46,7 +46,7 @@ feature_row7:
     url: https://joemcgirr.shinyapps.io/crag_maps/
     btn_label: "See Map"
     btn_class: "btn--inverse" 
-feature_row6:
+feature_row5:
   - image_path: fitness_app.JPG
     alt: "Exercise Routine Generator"
     title: "Exercise Routine Generator"
@@ -54,14 +54,14 @@ feature_row6:
     url: https://joemcgirr.shinyapps.io/fitness_app/
     btn_label: "See App"
     btn_class: "btn--inverse" 
-feature_row5:
-  - image_path: cam.jpg
-    alt: "Building a Beginner Trad Rack"
-    title: "Building a beginner trad rack"
-    excerpt: "A set of analyses I used to find the perfect combination of rock climbing gear. I collected data for trad equipment offered by several manufacturers to compare price/quality tradeoffs."
-    url: /files/code_tutorials/trad_rack.html
-    btn_label: "See Code"
-    btn_class: "btn--inverse"  
+# feature_row5:
+#   - image_path: cam.jpg
+#     alt: "Building a Beginner Trad Rack"
+#     title: "Building a beginner trad rack"
+#     excerpt: "A set of analyses I used to find the perfect combination of rock climbing gear. I collected data for trad equipment offered by several manufacturers to compare price/quality tradeoffs."
+#     url: /files/code_tutorials/trad_rack.html
+#     btn_label: "See Code"
+#     btn_class: "btn--inverse"  
 feature_row4:
   - image_path: coverage.png
     alt: "Variant Filtering and QC"
@@ -96,6 +96,7 @@ feature_row1:
 
     
 ---
+
 
 
 
