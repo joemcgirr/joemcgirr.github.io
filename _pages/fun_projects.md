@@ -9,7 +9,15 @@ author_profile: false
 
 header:
   overlay_image: grandma.jpg
-  
+
+
+feature_row11:
+  - image_path: gwascat.jpg
+    title: "A simple nextflow pipeline for simulated health records"
+    excerpt: "I use nextflow to generate simulated health records with Synthea."
+    url: /files/code_tutorials/nextflow_for_synthea.html
+    btn_label: "See Code"
+    btn_class: "btn--inverse"
 feature_row10:
   - image_path: gwascat.jpg
     title: "Searching the GWAS Catalog and Calculating PRS"
@@ -99,6 +107,7 @@ feature_row1:
 
 
 
+{% include feature_row id="feature_row11" type="right" %}
 
 {% include feature_row id="feature_row10" type="right" %}
 
