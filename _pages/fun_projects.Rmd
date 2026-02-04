@@ -12,7 +12,7 @@ header:
 
 
 feature_row11:
-  - image_path: gwascat.jpg
+  - image_path: synthea.jpeg
     title: "A simple nextflow pipeline for simulated health records"
     excerpt: "I use nextflow to generate simulated health records with Synthea."
     url: /files/code_tutorials/nextflow_for_synthea.html
